@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://img.insight.co.kr/static/2017/11/07/700/9733dyx300705283nrcq.jpg);
+    background-size: cover;
+    color: aliceblue;
+    display: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    text-align: center;
+    margin: 150px;
+    text-align: center;
+
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left:auto;
+}
